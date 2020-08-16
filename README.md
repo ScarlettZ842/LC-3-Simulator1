@@ -1,1 +1,1 @@
-# LC-3-in-C-Compiler
+# LC-3-Simulator
